@@ -1,7 +1,5 @@
 # 🌤️ Live Weather & Air Quality Dashboard – India (Power BI)
 
-This interactive Power BI dashboard tracks **real-time weather conditions** and **air quality (PM10 levels)** across major Indian cities, using data fetched from a public weather API. City bubbles dynamically change color based on PM10 values, helping users quickly identify pollution hotspots.
-
 ---
 
 ## 🔍 Features
